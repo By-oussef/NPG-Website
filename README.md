@@ -1,13 +1,3 @@
-# [Start Bootstrap - Scrolling Nav](https://startbootstrap.com/template-overviews/scrolling-nav/)
-
-[Scrolling Nav](http://startbootstrap.com/template-overviews/scrolling-nav/) is an unstyled one page starter template with a collapsing, smooth scrolling navigation bar for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
-
-## Preview
-
-[![Scrolling Nav Preview](https://startbootstrap.com/assets/img/templates/scrolling-nav.jpg)](https://blackrockdigital.github.io/startbootstrap-scrolling-nav/)
-
-**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-scrolling-nav/)**
-
 ## Status
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-scrolling-nav/master/LICENSE)
